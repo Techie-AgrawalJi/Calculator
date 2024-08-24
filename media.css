@@ -1,0 +1,29 @@
+@media screen and (max-width:1000px) {
+    .inner {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .inner {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .inner {
+        width: 80%;
+    }
+
+}
+
+@media screen and (orientation:portrait) {
+
+    .digits,
+    .add,
+    .mul,
+    .div,
+    .sub {
+        font-size: 20px;
+    }
+}
