@@ -1,5 +1,5 @@
 * {
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
     margin: 0;
 }
 
@@ -38,14 +38,14 @@ main {
 
 .display {
     background-color: rgb(208, 168, 115);
-    width: 100%;
+    width: 95%;
     height: 20%;
     border: 2px solid rgb(198, 120, 17);
-    font-size: 80px;
+    font-size: 60px;
     display: flex;
     justify-content: right;
     align-items: flex-end;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .digits_operations {
